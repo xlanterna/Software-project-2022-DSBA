@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>download.png</file>
+    <file>file.png</file>
+    <file>text.png</file>
+    <file>delete.png</file>
+    <file>clear.png</file>
+    <file>play.png</file>
+    <file>micro.png</file>
+    <file>lupa.png</file>
+  </qresource>
+</RCC>
